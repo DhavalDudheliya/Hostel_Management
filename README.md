@@ -1,8 +1,10 @@
 # Hostel Management System
 
-**Short Project Description**: A brief description of what the project does and its primary features.
+**Project Duration**: December 2023 – March 2024
 
-![Project Logo](link-to-image) *(Optional)*
+**Project Description**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
+
+![Hostel Management System Logo](link-to-image) *(Optional)*
 
 ---
 
@@ -26,31 +28,36 @@
 ## About the Project
 
 ### Overview
-Provide a detailed explanation of what the project does, its purpose, and any significant challenges it solves.
+The Hostel Management System is a comprehensive solution for hostel authorities to manage day-to-day operations. It streamlines processes like room allocation, fee management, and leave tracking, significantly reducing manual effort and errors.
 
 ### Live Demo
-Link to a live version of the project (if available).
+[Link to Live Demo](#) *(If available)*
 
 ### Screenshots
-Include screenshots of the project in action.
+Include screenshots showing the key features of the system, like the dashboard, fee management, and leave management screens.
 
 ---
 
 ## Tech Stack
 
-- **Frontend**: React, Redux (if used), React Router, CSS/SCSS, Bootstrap/Tailwind, etc.
+- **Frontend**: React, Shadcn-ui, Flowbite, Recharts, Framer-motion, Yup, Formik
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
-- **Authentication**: JWT, OAuth (if applicable)
-- **Hosting**: Heroku, Vercel, Netlify, etc.
+- **Payment Integration**: Razorpay
+- **Automation/Testing**: Puppeteer
+- **Hosting**: *(Specify your hosting provider, e.g., Heroku, Vercel, etc.)*
 - **Version Control**: Git, GitHub
 
 ---
 
 ## Features
 
-- List of key features
-- Example: User authentication, CRUD operations, responsive design, etc.
+- **Secure User Authentication**: Ensures that only authorized users can access the system.
+- **Student Profile Management**: Manage and update student profiles efficiently.
+- **Room Allocation**: Simplifies the process of allocating rooms to students.
+- **Fee Management**: Includes online fee collection via Razorpay and allows generation and downloading of fee receipts, saving 5-10 minutes per student.
+- **Leave Management**: Tracks student absences in real-time, providing accurate data on student presence in the hostel.
+- **Report Management**: Generate reports on various operations, aiding in better decision-making.
 
 ---
 
@@ -65,5 +72,5 @@ Include screenshots of the project in action.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/yourprojectname.git
-   cd yourprojectname
+   git clone https://github.com/DhavalDudheliya/Hostel_Management.git
+   cd Hostel_Management
