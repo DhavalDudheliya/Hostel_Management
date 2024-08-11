@@ -26,7 +26,7 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 ### Screenshots
 
 #### HomePage
-![Home Page](https://drive.google.com/file/d/1x39YF4GasblFPMMSoryVQ914lpH_0qCi/view?usp=sharing/)
+![Home Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/1.png)
 
 #### Login Page
 ![Home Page](https://drive.google.com/file/d/19UhFhVUCdk5Demq-aFDruZJUWNrNdY2N/view?usp=sharing)
