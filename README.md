@@ -4,8 +4,6 @@
 
 **Project Description**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
 
-![Hostel Management System Logo](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management/main/FrontEnd/public/logo.png)
-
 ---
 
 ## Table of Contents
@@ -26,7 +24,9 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 [Link to Live Demo](https://apcnadiad.netlify.app/)
 
 ### Screenshots
-Include screenshots showing the key features of the system, like the dashboard, fee management, and leave management screens.
+
+#### HomePage
+![Home Page](link-to-image)
 
 ---
 
@@ -97,6 +97,8 @@ Include screenshots showing the key features of the system, like the dashboard, 
    # Run the frontend
    cd ../frontend
    npm start
+
+---
 
 ## Contact
 
