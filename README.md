@@ -76,13 +76,34 @@ Include screenshots showing the key features of the system, like the dashboard, 
    cd Hostel_Management
 
 2. **Install dependencies**:
-Install server dependencied
-    ```bash
-    cd backend
-    npm install
-
-Install server dependencied
+- Install server dependencied: 
    ```bash
-    cd ../frontend
-    npm install
-    
+   cd backend
+   npm install
+
+- Install server dependencied:
+   ```bash
+   cd ../frontend
+   npm install
+
+3. Set up environment variables: 
+    # Backend
+   PORT=5000
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_jwt_secret
+   RAZORPAY_KEY=your_razorpay_key
+   RAZORPAY_SECRET=your_razorpay_secret
+
+   # Frontend
+   REACT_APP_API_URL=your_backend_api_url
+
+4. Run the project:
+   ```bash
+   # Run the backend
+   cd backend
+   npm run dev
+
+   # Run the frontend
+   cd ../frontend
+   npm start
+
