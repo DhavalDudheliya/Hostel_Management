@@ -13,9 +13,7 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [API Documentation](#api-documentation)
-6. [Folder Structure](#folder-structure)
-7. [Contact](#contact)
+5. [Contact](#contact)
 
 ---
 
@@ -99,35 +97,6 @@ Include screenshots showing the key features of the system, like the dashboard, 
    # Run the frontend
    cd ../frontend
    npm start
-
-## Folder Structure
-
-Hostel_Management/
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── images/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── uploads/
-│   ├── uploadsReport/
-│   └── index.js
-│   ├── razorpay-utils.js/
-├── frontend/
-│   ├── public/
-│   ├── contexts/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── lib/
-│   │   ├── pages/
-│   │   ├── App.jsx
-│   │   ├── Layout.jsx
-│   │   └── main.jsx
-├── README.md
-
-
 
 ## Contact
 
