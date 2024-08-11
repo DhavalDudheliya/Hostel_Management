@@ -4,7 +4,7 @@
 
 **Project Description**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
 
-![Hostel Management System Logo](link-to-image) *(Optional)*
+![Hostel Management System Logo]([link-to-image](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management/main/FrontEnd/public/logo.png))
 
 ---
 
@@ -13,15 +13,9 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [API Documentation](#api-documentation)
-7. [Folder Structure](#folder-structure)
-8. [Environment Variables](#environment-variables)
-9. [Testing](#testing)
-10. [Deployment](#deployment)
-11. [Contributing](#contributing)
-12. [License](#license)
-13. [Contact](#contact)
+5. [API Documentation](#api-documentation)
+6. [Folder Structure](#folder-structure)
+7. [Contact](#contact)
 
 ---
 
@@ -76,18 +70,17 @@ Include screenshots showing the key features of the system, like the dashboard, 
    cd Hostel_Management
 
 2. **Install dependencies**:
-- Install server dependencied: 
    ```bash
+   # Install server dependencies
    cd backend
    npm install
 
-- Install server dependencied:
-   ```bash
+   # Install client dependencies
    cd ../frontend
    npm install
 
 3. Set up environment variables: 
-    # Backend
+   # Backend
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
@@ -106,4 +99,38 @@ Include screenshots showing the key features of the system, like the dashboard, 
    # Run the frontend
    cd ../frontend
    npm start
+
+## Folder Structure
+
+Hostel_Management/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── images/
+│   ├── middleware/
+│   ├── models/
+│   ├── routes/
+│   ├── uploads/
+│   ├── uploadsReport/
+│   └── index.js
+│   ├── razorpay-utils.js/
+├── frontend/
+│   ├── public/
+│   ├── contexts/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   ├── lib/
+│   │   ├── pages/
+│   │   ├── App.jsx
+│   │   ├── Layout.jsx
+│   │   └── main.jsx
+├── README.md
+
+
+
+## Contact
+
+- Email: dhavaldudheliya77@gmail.com
+- Phone No: +91 9157795624
 
