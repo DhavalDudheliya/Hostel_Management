@@ -1,12 +1,12 @@
-# Hostel Management System
+# Hostel Management System 🏨
 
-**Project Duration**: December 2023 – March 2024
+**Project Duration 🗓️**: December 2023 – March 2024 
 
-**Project Description**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
+**Project Description 📃**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
 
 ---
 
-## Table of Contents
+## Table of Contents 📋
 1. [About the Project](#about-the-project)
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
@@ -14,8 +14,8 @@
 5. [Contact](#contact)
 
 ---
-
-## About the Project
+  
+## About the Project ⓘ
 
 ### Overview
 The Hostel Management System is a comprehensive solution for hostel authorities to manage day-to-day operations. It streamlines processes like room allocation, fee management, and leave tracking, significantly reducing manual effort and errors.
@@ -23,50 +23,50 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 ### Live Demo
 [Link to Live Demo](https://apcnadiad.netlify.app/)
 
-### Screenshots
+### Screenshots 🖵
 
-#### HomePage
+#### HomePage 🏠
 ![Home Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/1.png)
 
-#### Login Page
-![Home Page](https://drive.google.com/file/d/19UhFhVUCdk5Demq-aFDruZJUWNrNdY2N/view?usp=sharing)
+#### Login Page 🔐
+![Login Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/2.png)
 
-#### Admin Dashboard
-![Home Page](https://drive.google.com/file/d/1QOot2Rwijg8HobcgzofCSQ8H8-xwkJNB/view?usp=sharing)
+#### Admin Dashboard 📊
+![Admin Dashboard](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/3.png)
 
-#### Student Profile Page
-![Home Page](https://drive.google.com/file/d/1wUDhWr5ISI4vOIXTOzxoTa6Qo1xaKLPu/view?usp=sharing)
+#### Student Profile Page 🙎🏻‍♂️
+![Student Profile Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/4.png)
 
-#### New Admission Form Page
-![Home Page](https://drive.google.com/file/d/1gCowGSbEiuRmQAlyb2HrE8zWDhG5EmT2/view?usp=sharing)
+#### New Admission Form Page 📝
+![New Admission Form Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/5.png)
 
-#### Room Allocation
-![Home Page](https://drive.google.com/file/d/1BDPz4ZwDyMwjta7iBSX8fJAl1MmfNI3g/view?usp=sharing)
+#### Room Allocation 🛏️
+![Room Allocation](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/6.png)
 
-#### Leave Page
-![Home Page](https://drive.google.com/file/d/1DYhbDOtg3s3o9aA4vdgvNRjoDWBNFPEZ/view?usp=sharing)
+#### Leave Page 📝
+![Leave Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/7.png)
 
-#### Accountant Dashboard Page
-![Home Page](https://drive.google.com/file/d/1T_QxSrHkhdFC2Jeemv8LpChNAaI49Ae_/view?usp=sharing)
+#### Accountant Dashboard Page 📊
+![Accountant Dashboard Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/8.png)
 
-#### New Fee add Page
-![Home Page](https://drive.google.com/file/d/1dpWbSq7fZOMAj_c0Lj46FEz5gf_K5ALr/view?usp=sharing)
+#### New Fee add Page 💵
+![New Fee add Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/9.png)
 
-#### Due Fees Page
-![Home Page](https://drive.google.com/file/d/1ZFki6urntE2DVBQogIdDBz9DDlmYfVCX/view?usp=sharing)
+#### Due Fees Page 🗓️
+![Due Fees Page](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/10.png)
 
-#### Fee Status Page ( Accountant )
-![Home Page](https://drive.google.com/file/d/1D3_JfpuATUDJOemt0FIJIimEP95xcIoz/view?usp=sharing)
+#### Fee Status Page ( Accountant ) 🗃️
+![Fee Status Page Accountant](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/11.png)
 
-#### Fee Status Page ( Student )
-![Home Page](https://drive.google.com/file/d/1sxzjNtyRL_Aj8Iu88yC29jXPYAKKNSj6/view?usp=sharing)
+#### Fee Status Page ( Student ) 💸
+![Fee Status Page Student](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/12.png)
 
-#### Online Fee Payment
-![Home Page](https://drive.google.com/file/d/1sEwEJq172NcxvP-J_kxf9Gg5W6ZiBHuy/view?usp=sharing)
+#### Online Fee Payment 💳
+![Online Fee Payment](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management_Frontend/main/public/13.png)
 
 ---
 
-## Tech Stack
+## Tech Stack 🚀📋
 
 - **Frontend**: React, Shadcn-ui, Flowbite, Recharts, Framer-motion, Yup, Formik
 - **Backend**: Node.js, Express.js
@@ -78,7 +78,7 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 
 ---
 
-## Features
+## Features 📱🖥️
 
 - **Secure User Authentication**: Ensures that only authorized users can access the system.
 - **Student Profile Management**: Manage and update student profiles efficiently.
@@ -96,7 +96,7 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 - MongoDB (local or cloud setup)
 - npm or yarn
 
-### Setup
+### Setup ⚙️
 
 1. **Clone the repository**:
    ```bash
@@ -136,7 +136,7 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 
 ---
 
-## Contact
+## Contact 📩📞
 
 - Email: dhavaldudheliya77@gmail.com
 - Phone No: +91 9157795624
