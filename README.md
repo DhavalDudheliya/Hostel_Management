@@ -26,7 +26,43 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
 ### Screenshots
 
 #### HomePage
-![Home Page](link-to-image)
+![Home Page](https://drive.google.com/file/d/1x39YF4GasblFPMMSoryVQ914lpH_0qCi/view?usp=sharing)
+
+#### Login Page
+![Home Page](https://drive.google.com/file/d/19UhFhVUCdk5Demq-aFDruZJUWNrNdY2N/view?usp=sharing)
+
+#### Admin Dashboard
+![Home Page](https://drive.google.com/file/d/1QOot2Rwijg8HobcgzofCSQ8H8-xwkJNB/view?usp=sharing)
+
+#### Student Profile Page
+![Home Page](https://drive.google.com/file/d/1wUDhWr5ISI4vOIXTOzxoTa6Qo1xaKLPu/view?usp=sharing)
+
+#### New Admission Form Page
+![Home Page](https://drive.google.com/file/d/1gCowGSbEiuRmQAlyb2HrE8zWDhG5EmT2/view?usp=sharing)
+
+#### Room Allocation
+![Home Page](https://drive.google.com/file/d/1BDPz4ZwDyMwjta7iBSX8fJAl1MmfNI3g/view?usp=sharing)
+
+#### Leave Page
+![Home Page](https://drive.google.com/file/d/1DYhbDOtg3s3o9aA4vdgvNRjoDWBNFPEZ/view?usp=sharing)
+
+#### Accountant Dashboard Page
+![Home Page](https://drive.google.com/file/d/1T_QxSrHkhdFC2Jeemv8LpChNAaI49Ae_/view?usp=sharing)
+
+#### New Fee add Page
+![Home Page](https://drive.google.com/file/d/1dpWbSq7fZOMAj_c0Lj46FEz5gf_K5ALr/view?usp=sharing)
+
+#### Due Fees Page
+![Home Page](https://drive.google.com/file/d/1ZFki6urntE2DVBQogIdDBz9DDlmYfVCX/view?usp=sharing)
+
+#### Fee Status Page ( Accountant )
+![Home Page](https://drive.google.com/file/d/1D3_JfpuATUDJOemt0FIJIimEP95xcIoz/view?usp=sharing)
+
+#### Fee Status Page ( Student )
+![Home Page](https://drive.google.com/file/d/1sxzjNtyRL_Aj8Iu88yC29jXPYAKKNSj6/view?usp=sharing)
+
+#### Online Fee Payment
+![Home Page](https://drive.google.com/file/d/1sEwEJq172NcxvP-J_kxf9Gg5W6ZiBHuy/view?usp=sharing)
 
 ---
 
