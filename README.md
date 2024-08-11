@@ -45,7 +45,7 @@ Include screenshots showing the key features of the system, like the dashboard, 
 - **Database**: MongoDB, Mongoose
 - **Payment Integration**: Razorpay
 - **Automation/Testing**: Puppeteer
-- **Hosting**: *(Specify your hosting provider, e.g., Heroku, Vercel, etc.)*
+- **Hosting**: Netlify, Render
 - **Version Control**: Git, GitHub
 
 ---
@@ -55,7 +55,7 @@ Include screenshots showing the key features of the system, like the dashboard, 
 - **Secure User Authentication**: Ensures that only authorized users can access the system.
 - **Student Profile Management**: Manage and update student profiles efficiently.
 - **Room Allocation**: Simplifies the process of allocating rooms to students.
-- **Fee Management**: Includes online fee collection via Razorpay and allows generation and downloading of fee receipts, saving 5-10 minutes per student.
+- **Fee Management**: Includes online fee collection via Razorpay and allows generation and downloading of fee receipts.
 - **Leave Management**: Tracks student absences in real-time, providing accurate data on student presence in the hostel.
 - **Report Management**: Generate reports on various operations, aiding in better decision-making.
 
@@ -74,3 +74,15 @@ Include screenshots showing the key features of the system, like the dashboard, 
    ```bash
    git clone https://github.com/DhavalDudheliya/Hostel_Management.git
    cd Hostel_Management
+
+2. **Install dependencies**:
+Install server dependencied
+    ```bash
+    cd backend
+    npm install
+
+Install server dependencied
+   ```bash
+    cd ../frontend
+    npm install
+    
