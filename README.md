@@ -4,7 +4,7 @@
 
 **Project Description**: A user-centric platform designed for hostel authorities to efficiently manage operations, reducing reliance on Excel by 75%. The system includes features like secure user authentication, student profile management, room allocation, fee management, leave management, and report management.
 
-![Hostel Management System Logo]([link-to-image](https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management/main/FrontEnd/public/logo.png))
+![Hostel Management System Logo]([https://raw.githubusercontent.com/DhavalDudheliya/Hostel_Management/main/FrontEnd/public/logo.png])
 
 ---
 
