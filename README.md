@@ -128,9 +128,6 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
   VONAGE_API_KEY = b8986d3f;
   VONAGE_API_SECRET = UEfTmdIHLK5MTfe3;
 
-   # Frontend
-   REACT_APP_API_URL=your_backend_api_url
-
 4. Run the project:
    ```bash
    # Run frontend and backend conncurently
