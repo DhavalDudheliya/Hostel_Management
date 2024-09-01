@@ -113,21 +113,6 @@ The Hostel Management System is a comprehensive solution for hostel authorities 
    cd ../frontend
    npm install
 
-3. Set up environment variables: 
-   # Backend
-   MONGO_URL = mongodb+srv://hostelmanagementowners:aMdVx1kEXXYfq5lN@cluster0.yr1psfu.mongodb.net/?retryWrites=true&w=majority
-  PORT = 4004
-  CLIENT_URL = http://localhost:5173
-  JWT_SECRET = qpwoeirutyalskdjfhgzmxncbv
-  MAIL_SENDER = apcnadiad13@gmail.com
-  MAIL_PASS = boyxfoqqmrdvofte
-
-  ROZORPAY_API_KEY = rzp_test_i3xNVjNQutiV0I
-  ROZORPAY_API_SECRET = NGMfbMPKZAOnJkWiw89CCSg1
-
-  VONAGE_API_KEY = b8986d3f;
-  VONAGE_API_SECRET = UEfTmdIHLK5MTfe3;
-
 4. Run the project:
    ```bash
    # Run frontend and backend conncurently
